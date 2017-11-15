@@ -1,2 +1,2 @@
 # hello-world2
-Das ist ein Test.
+Das ist eine Anpassung der Testversion.
